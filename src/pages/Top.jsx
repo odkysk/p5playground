@@ -7,6 +7,8 @@ export const Top = () => {
       <Page name="grid" />
       <Page name="polygon" />
       <Page name="circle" />
+      <Page name="noiseTest" />
+      <Page name="superEllipse" />
     </Main>
   );
 };

@@ -38,7 +38,8 @@ export const Circle = () => {
   return <Canvas id="canvas" />;
 };
 const Canvas = styled.div`
-  height: 100vh;
+  flex-grow: 1;
   width: 100%;
   background-color: #eee;
+  padding: 0;
 `;
